@@ -33,8 +33,8 @@ void rev_string(char *s);
 int _printf(const char *format, ...);
 
 /* print_str functions */
-int print_char(va_list ap);
-int print_string(va_list ap);
+int _print_char(va_list args);
+int _print_str(va_list args);
 int print_percent(va_list ap);
 
 /* print_int functions */
