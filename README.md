@@ -1,7 +1,7 @@
  
  This project is build by  [zayid mohamed](https://github.com/zayidmohamedy) and  [safiya shariif ](https://github.com/safiyoow) 
 # _printf
-```_printf``` is a custom implementation of the C programming function ```printf```. This project is an application of the C programming knowledge that given to us on April 14, 2022
+```_printf``` is a custom implementation of the C programming function ```printf```. This project is an application of the C programming knowledge that given to us on Augus,09, 2022
 **Prototype:** ```int _printf(const char *, ...);```
 
 ## Examples
